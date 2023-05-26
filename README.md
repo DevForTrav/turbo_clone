@@ -1,11 +1,11 @@
 # TurboClone
-Short description and motivation.
+Following the [Alexandre Ruban](https://hotrails.podia.com/view/courses/rebuilding-turbo-rails/1408793-rails-plugins-architecture/4367442-creating-our-turbo-clone-rails-engine)'s Rebuilding Turbo Rails gem.
 
 ## Usage
-How to use my plugin.
+I believe once completed you should simply be able to include this in your rails application's gemfile. The functionality will be similar to if not exactly that of the [Turbo Rails gem](https://www.rubydoc.info/gems/turbo-rails/1.4.0)
 
 ## Installation
-Add this line to your application's Gemfile:
+Add this line to your application's Gemfile: 
 
 ```ruby
 gem "turbo_clone"
@@ -13,7 +13,7 @@ gem "turbo_clone"
 
 And then execute:
 ```bash
-$ bundle
+$ bundle install
 ```
 
 Or install it yourself as:
